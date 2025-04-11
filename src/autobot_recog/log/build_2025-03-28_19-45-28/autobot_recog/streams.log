@@ -1,0 +1,24 @@
+[0.584s] Invoking command in '/home/rudra/bharatforge/abhiroop/src/autobot_recog/build/autobot_recog': PYTHONPATH=/home/rudra/bharatforge/abhiroop/src/autobot_recog/build/autobot_recog/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rudra/bharatforge/abhiroop/src/autobot_recog/install/autobot_recog/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rudra/bharatforge/abhiroop/src/autobot_recog/build/autobot_recog/build --no-deps symlink_data
+[0.823s] running develop
+[1.001s] running egg_info
+[1.001s] writing autobot_recog.egg-info/PKG-INFO
+[1.001s] writing dependency_links to autobot_recog.egg-info/dependency_links.txt
+[1.001s] writing entry points to autobot_recog.egg-info/entry_points.txt
+[1.001s] writing requirements to autobot_recog.egg-info/requires.txt
+[1.001s] writing top-level names to autobot_recog.egg-info/top_level.txt
+[1.002s] reading manifest file 'autobot_recog.egg-info/SOURCES.txt'
+[1.003s] writing manifest file 'autobot_recog.egg-info/SOURCES.txt'
+[1.004s] running build_ext
+[1.004s] Creating /home/rudra/bharatforge/abhiroop/src/autobot_recog/install/autobot_recog/lib/python3.10/site-packages/autobot-recog.egg-link (link to .)
+[1.005s] Installing agent_node script to /home/rudra/bharatforge/abhiroop/src/autobot_recog/install/autobot_recog/lib/autobot_recog
+[1.005s] Installing image_save script to /home/rudra/bharatforge/abhiroop/src/autobot_recog/install/autobot_recog/lib/autobot_recog
+[1.005s] Installing move script to /home/rudra/bharatforge/abhiroop/src/autobot_recog/install/autobot_recog/lib/autobot_recog
+[1.005s] Installing multi_move script to /home/rudra/bharatforge/abhiroop/src/autobot_recog/install/autobot_recog/lib/autobot_recog
+[1.006s] Installing move.py script to /home/rudra/bharatforge/abhiroop/src/autobot_recog/install/autobot_recog/lib/autobot_recog
+[1.006s] Installing image_save.py script to /home/rudra/bharatforge/abhiroop/src/autobot_recog/install/autobot_recog/lib/autobot_recog
+[1.007s] Installing agent_node.py script to /home/rudra/bharatforge/abhiroop/src/autobot_recog/install/autobot_recog/lib/autobot_recog
+[1.007s] Installing multi_move.py script to /home/rudra/bharatforge/abhiroop/src/autobot_recog/install/autobot_recog/lib/autobot_recog
+[1.008s] 
+[1.008s] Installed /home/rudra/bharatforge/abhiroop/src/autobot_recog/build/autobot_recog
+[1.008s] running symlink_data
+[1.029s] Invoked command in '/home/rudra/bharatforge/abhiroop/src/autobot_recog/build/autobot_recog' returned '0': PYTHONPATH=/home/rudra/bharatforge/abhiroop/src/autobot_recog/build/autobot_recog/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rudra/bharatforge/abhiroop/src/autobot_recog/install/autobot_recog/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rudra/bharatforge/abhiroop/src/autobot_recog/build/autobot_recog/build --no-deps symlink_data

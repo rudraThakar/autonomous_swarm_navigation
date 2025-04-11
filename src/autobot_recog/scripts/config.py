@@ -1,0 +1,1 @@
+locations = ["carton", "fire hydrant", "person", "shelf", "table"]
