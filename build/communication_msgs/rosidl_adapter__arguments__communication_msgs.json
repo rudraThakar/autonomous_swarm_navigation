@@ -1,0 +1,8 @@
+{
+  "package_name": "communication_msgs",
+  "non_idl_tuples": [
+    "/home/rudra/bharatforge/abhiroop/src/communication_msgs:srv/TaskAssignment.srv",
+    "/home/rudra/bharatforge/abhiroop/src/communication_msgs:srv/TaskCompletion.srv",
+    "/home/rudra/bharatforge/abhiroop/src/communication_msgs:srv/Liveliness.srv"
+  ]
+}

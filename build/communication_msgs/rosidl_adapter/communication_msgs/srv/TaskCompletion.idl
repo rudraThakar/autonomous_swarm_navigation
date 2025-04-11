@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from communication_msgs/srv/TaskCompletion.srv
+// generated code does not contain a copyright notice
+
+
+module communication_msgs {
+  module srv {
+    struct TaskCompletion_Request {
+      int64 task_id;
+
+      string slave_id;
+
+      string status;
+    };
+    struct TaskCompletion_Response {
+      string message;
+    };
+  };
+};

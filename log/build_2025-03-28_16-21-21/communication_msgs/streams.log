@@ -1,0 +1,200 @@
+[0.254s] Invoking command in '/home/rudra/bharatforge/abhiroop/build/communication_msgs': CMAKE_PREFIX_PATH=/home/rudra/bharatforge/abhiroop/install/communication_msgs:/home/rudra/abhiroop/install/communication_msgs:/home/rudra/ws_offboard_control/install/px4_ros_com:/home/rudra/ws_offboard_control/install/px4_msgs:/home/rudra/bharatforge/abhiroop/install/autobot_recog:/home/rudra/abhiroop/install/autobot_recog:/opt/ros/humble:/home/rudra/ws_offboard_control/install/lidar_bridge /usr/bin/cmake /home/rudra/bharatforge/abhiroop/src/communication_msgs -DCMAKE_INSTALL_PREFIX=/home/rudra/bharatforge/abhiroop/install/communication_msgs
+[0.265s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.364s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.370s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[0.394s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.396s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.400s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.407s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.417s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.441s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.442s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.542s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.578s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.584s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.835s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.179s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.314s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.335s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.355s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.355s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[1.355s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[1.386s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.394s] -- Added test 'lint_cmake' to check CMake code style
+[1.395s] -- Added test 'xmllint' to check XML markup files
+[1.397s] -- Configuring done
+[1.431s] -- Generating done
+[1.441s] -- Build files have been written to: /home/rudra/bharatforge/abhiroop/build/communication_msgs
+[1.450s] Invoked command in '/home/rudra/bharatforge/abhiroop/build/communication_msgs' returned '0': CMAKE_PREFIX_PATH=/home/rudra/bharatforge/abhiroop/install/communication_msgs:/home/rudra/abhiroop/install/communication_msgs:/home/rudra/ws_offboard_control/install/px4_ros_com:/home/rudra/ws_offboard_control/install/px4_msgs:/home/rudra/bharatforge/abhiroop/install/autobot_recog:/home/rudra/abhiroop/install/autobot_recog:/opt/ros/humble:/home/rudra/ws_offboard_control/install/lidar_bridge /usr/bin/cmake /home/rudra/bharatforge/abhiroop/src/communication_msgs -DCMAKE_INSTALL_PREFIX=/home/rudra/bharatforge/abhiroop/install/communication_msgs
+[1.452s] Invoking command in '/home/rudra/bharatforge/abhiroop/build/communication_msgs': CMAKE_PREFIX_PATH=/home/rudra/bharatforge/abhiroop/install/communication_msgs:/home/rudra/abhiroop/install/communication_msgs:/home/rudra/ws_offboard_control/install/px4_ros_com:/home/rudra/ws_offboard_control/install/px4_msgs:/home/rudra/bharatforge/abhiroop/install/autobot_recog:/home/rudra/abhiroop/install/autobot_recog:/opt/ros/humble:/home/rudra/ws_offboard_control/install/lidar_bridge /usr/bin/cmake --build /home/rudra/bharatforge/abhiroop/build/communication_msgs -- -j12 -l12
+[1.492s] [35m[1mConsolidate compiler generated dependencies of target communication_msgs__rosidl_generator_c[0m
+[1.502s] [  2%] Built target communication_msgs__cpp
+[1.503s] [ 12%] Built target communication_msgs__rosidl_generator_c
+[1.512s] [ 12%] Built target ament_cmake_python_symlink_communication_msgs
+[1.513s] [35m[1mConsolidate compiler generated dependencies of target communication_msgs__rosidl_typesupport_cpp[0m
+[1.513s] [35m[1mConsolidate compiler generated dependencies of target communication_msgs__rosidl_typesupport_introspection_cpp[0m
+[1.514s] [35m[1mConsolidate compiler generated dependencies of target communication_msgs__rosidl_typesupport_introspection_c[0m
+[1.514s] [35m[1mConsolidate compiler generated dependencies of target communication_msgs__rosidl_typesupport_c[0m
+[1.514s] [35m[1mConsolidate compiler generated dependencies of target communication_msgs__rosidl_typesupport_fastrtps_c[0m
+[1.514s] [35m[1mConsolidate compiler generated dependencies of target communication_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[1.526s] [ 34%] Built target communication_msgs__rosidl_typesupport_cpp
+[1.526s] [ 34%] Built target communication_msgs__rosidl_typesupport_c
+[1.526s] [ 44%] Built target communication_msgs__rosidl_typesupport_introspection_cpp
+[1.528s] [ 63%] Built target communication_msgs__rosidl_typesupport_fastrtps_c
+[1.528s] [ 65%] Built target communication_msgs__rosidl_typesupport_introspection_c
+[1.529s] [ 76%] Built target communication_msgs__rosidl_typesupport_fastrtps_cpp
+[1.550s] [ 76%] Built target communication_msgs
+[1.571s] [ 78%] Built target communication_msgs__py
+[1.582s] [35m[1mConsolidate compiler generated dependencies of target communication_msgs__rosidl_generator_py[0m
+[1.595s] [ 87%] Built target communication_msgs__rosidl_generator_py
+[1.606s] [35m[1mConsolidate compiler generated dependencies of target communication_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[1.606s] [35m[1mConsolidate compiler generated dependencies of target communication_msgs__rosidl_typesupport_c__pyext[0m
+[1.606s] [35m[1mConsolidate compiler generated dependencies of target communication_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[1.619s] [ 95%] Built target communication_msgs__rosidl_typesupport_fastrtps_c__pyext
+[1.620s] [ 95%] Built target communication_msgs__rosidl_typesupport_c__pyext
+[1.620s] [100%] Built target communication_msgs__rosidl_typesupport_introspection_c__pyext
+[1.757s] running egg_info
+[1.757s] writing communication_msgs.egg-info/PKG-INFO
+[1.758s] writing dependency_links to communication_msgs.egg-info/dependency_links.txt
+[1.758s] writing top-level names to communication_msgs.egg-info/top_level.txt
+[1.759s] reading manifest file 'communication_msgs.egg-info/SOURCES.txt'
+[1.760s] writing manifest file 'communication_msgs.egg-info/SOURCES.txt'
+[1.783s] [100%] Built target ament_cmake_python_build_communication_msgs_egg
+[1.795s] Invoked command in '/home/rudra/bharatforge/abhiroop/build/communication_msgs' returned '0': CMAKE_PREFIX_PATH=/home/rudra/bharatforge/abhiroop/install/communication_msgs:/home/rudra/abhiroop/install/communication_msgs:/home/rudra/ws_offboard_control/install/px4_ros_com:/home/rudra/ws_offboard_control/install/px4_msgs:/home/rudra/bharatforge/abhiroop/install/autobot_recog:/home/rudra/abhiroop/install/autobot_recog:/opt/ros/humble:/home/rudra/ws_offboard_control/install/lidar_bridge /usr/bin/cmake --build /home/rudra/bharatforge/abhiroop/build/communication_msgs -- -j12 -l12
+[1.804s] Invoking command in '/home/rudra/bharatforge/abhiroop/build/communication_msgs': CMAKE_PREFIX_PATH=/home/rudra/bharatforge/abhiroop/install/communication_msgs:/home/rudra/abhiroop/install/communication_msgs:/home/rudra/ws_offboard_control/install/px4_ros_com:/home/rudra/ws_offboard_control/install/px4_msgs:/home/rudra/bharatforge/abhiroop/install/autobot_recog:/home/rudra/abhiroop/install/autobot_recog:/opt/ros/humble:/home/rudra/ws_offboard_control/install/lidar_bridge /usr/bin/cmake --install /home/rudra/bharatforge/abhiroop/build/communication_msgs
+[1.812s] -- Install configuration: ""
+[1.813s] -- Execute custom install script
+[1.813s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/ament_index/resource_index/rosidl_interfaces/communication_msgs
+[1.813s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/msg/rosidl_generator_c__visibility_control.h
+[1.813s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/liveliness__functions.h
+[1.813s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/liveliness__struct.h
+[1.814s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/liveliness__type_support.h
+[1.814s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_assignment__functions.h
+[1.814s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_assignment__struct.h
+[1.814s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_assignment__type_support.h
+[1.814s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_completion__functions.h
+[1.814s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_completion__struct.h
+[1.814s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_completion__type_support.h
+[1.814s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/liveliness.h
+[1.814s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/task_assignment.h
+[1.814s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/task_completion.h
+[1.815s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/environment/library_path.sh
+[1.815s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/environment/library_path.dsv
+[1.815s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.815s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/liveliness__rosidl_typesupport_fastrtps_c.h
+[1.815s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_assignment__rosidl_typesupport_fastrtps_c.h
+[1.815s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_completion__rosidl_typesupport_fastrtps_c.h
+[1.816s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.816s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/liveliness__builder.hpp
+[1.816s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/liveliness__struct.hpp
+[1.816s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/liveliness__traits.hpp
+[1.816s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/liveliness__type_support.hpp
+[1.816s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_assignment__builder.hpp
+[1.816s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_assignment__struct.hpp
+[1.816s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_assignment__traits.hpp
+[1.817s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_assignment__type_support.hpp
+[1.817s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_completion__builder.hpp
+[1.817s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_completion__struct.hpp
+[1.817s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_completion__traits.hpp
+[1.817s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_completion__type_support.hpp
+[1.817s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/liveliness.hpp
+[1.817s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/task_assignment.hpp
+[1.817s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/task_completion.hpp
+[1.818s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.818s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/liveliness__rosidl_typesupport_fastrtps_cpp.hpp
+[1.818s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_assignment__rosidl_typesupport_fastrtps_cpp.hpp
+[1.818s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_completion__rosidl_typesupport_fastrtps_cpp.hpp
+[1.818s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.818s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/liveliness__rosidl_typesupport_introspection_c.h
+[1.818s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_assignment__rosidl_typesupport_introspection_c.h
+[1.819s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_completion__rosidl_typesupport_introspection_c.h
+[1.819s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/liveliness__rosidl_typesupport_introspection_cpp.hpp
+[1.819s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_assignment__rosidl_typesupport_introspection_cpp.hpp
+[1.819s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/include/communication_msgs/communication_msgs/srv/detail/task_completion__rosidl_typesupport_introspection_cpp.hpp
+[1.819s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/environment/pythonpath.sh
+[1.819s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/environment/pythonpath.dsv
+[1.819s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[1.820s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.820s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.820s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs-0.0.0-py3.10.egg-info/top_level.txt
+[1.820s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/__init__.py
+[1.820s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/_communication_msgs_s.ep.rosidl_typesupport_c.c
+[1.820s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/_communication_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.821s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/_communication_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[1.821s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/communication_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.821s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/communication_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.821s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/communication_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.821s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/libcommunication_msgs__rosidl_generator_py.so
+[1.821s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/srv/__init__.py
+[1.821s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/srv/_liveliness.py
+[1.821s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/srv/_liveliness_s.c
+[1.821s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/srv/_task_assignment.py
+[1.821s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/srv/_task_assignment_s.c
+[1.822s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/srv/_task_completion.py
+[1.822s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/srv/_task_completion_s.c
+[1.822s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/communication_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.822s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/communication_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.822s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/communication_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.823s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/srv/TaskAssignment.idl
+[1.823s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/srv/TaskCompletion.idl
+[1.823s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/srv/Liveliness.idl
+[1.823s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/srv/TaskAssignment.srv
+[1.823s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/srv/TaskAssignment_Request.msg
+[1.823s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/srv/TaskAssignment_Response.msg
+[1.823s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/srv/TaskCompletion.srv
+[1.823s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/srv/TaskCompletion_Request.msg
+[1.823s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/srv/TaskCompletion_Response.msg
+[1.824s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/srv/Liveliness.srv
+[1.824s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/srv/Liveliness_Request.msg
+[1.824s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/srv/Liveliness_Response.msg
+[1.824s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/ament_index/resource_index/package_run_dependencies/communication_msgs
+[1.824s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/ament_index/resource_index/parent_prefix_path/communication_msgs
+[1.824s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/environment/ament_prefix_path.sh
+[1.824s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/environment/ament_prefix_path.dsv
+[1.824s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/environment/path.sh
+[1.825s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/environment/path.dsv
+[1.825s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/local_setup.bash
+[1.825s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/local_setup.sh
+[1.825s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/local_setup.zsh
+[1.825s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/local_setup.dsv
+[1.825s] -- Symlinking: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/package.dsv
+[1.834s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/ament_index/resource_index/packages/communication_msgs
+[1.834s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/rosidl_cmake-extras.cmake
+[1.834s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.835s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.835s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[1.835s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[1.835s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.835s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.835s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/communication_msgsConfig.cmake
+[1.835s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/communication_msgsConfig-version.cmake
+[1.836s] -- Up-to-date symlink: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/package.xml
+[1.836s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/lib/libcommunication_msgs__rosidl_generator_c.so
+[1.836s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/lib/libcommunication_msgs__rosidl_typesupport_fastrtps_c.so
+[1.836s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/lib/libcommunication_msgs__rosidl_typesupport_fastrtps_cpp.so
+[1.836s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/lib/libcommunication_msgs__rosidl_typesupport_introspection_c.so
+[1.837s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/lib/libcommunication_msgs__rosidl_typesupport_c.so
+[1.837s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/lib/libcommunication_msgs__rosidl_typesupport_introspection_cpp.so
+[1.837s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/lib/libcommunication_msgs__rosidl_typesupport_cpp.so
+[1.865s] Listing '/home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs'...
+[1.865s] Compiling '/home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/__init__.py'...
+[1.866s] Listing '/home/rudra/bharatforge/abhiroop/install/communication_msgs/local/lib/python3.10/dist-packages/communication_msgs/srv'...
+[1.869s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/lib/libcommunication_msgs__rosidl_generator_py.so
+[1.869s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/export_communication_msgs__rosidl_generator_cExport.cmake
+[1.869s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/export_communication_msgs__rosidl_generator_cExport-noconfig.cmake
+[1.869s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/export_communication_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[1.869s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/export_communication_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.869s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/export_communication_msgs__rosidl_generator_cppExport.cmake
+[1.869s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/export_communication_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.869s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/export_communication_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.870s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/communication_msgs__rosidl_typesupport_introspection_cExport.cmake
+[1.870s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/communication_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.870s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/communication_msgs__rosidl_typesupport_cExport.cmake
+[1.870s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/communication_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[1.870s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/communication_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[1.870s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/communication_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.870s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/communication_msgs__rosidl_typesupport_cppExport.cmake
+[1.870s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/communication_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[1.870s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/export_communication_msgs__rosidl_generator_pyExport.cmake
+[1.870s] -- Up-to-date: /home/rudra/bharatforge/abhiroop/install/communication_msgs/share/communication_msgs/cmake/export_communication_msgs__rosidl_generator_pyExport-noconfig.cmake
+[1.873s] Invoked command in '/home/rudra/bharatforge/abhiroop/build/communication_msgs' returned '0': CMAKE_PREFIX_PATH=/home/rudra/bharatforge/abhiroop/install/communication_msgs:/home/rudra/abhiroop/install/communication_msgs:/home/rudra/ws_offboard_control/install/px4_ros_com:/home/rudra/ws_offboard_control/install/px4_msgs:/home/rudra/bharatforge/abhiroop/install/autobot_recog:/home/rudra/abhiroop/install/autobot_recog:/opt/ros/humble:/home/rudra/ws_offboard_control/install/lidar_bridge /usr/bin/cmake --install /home/rudra/bharatforge/abhiroop/build/communication_msgs

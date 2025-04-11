@@ -1,0 +1,2 @@
+int64 task_id
+geometry_msgs/Point coordinates

@@ -1,0 +1,6 @@
+[console_scripts]
+agent_node = agent_node:main
+image_save = image_save:main
+move = move:main
+multi_move = multi_move:main
+

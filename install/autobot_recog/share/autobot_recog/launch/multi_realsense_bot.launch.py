@@ -1,0 +1,1 @@
+/home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/multi_realsense_bot.launch.py

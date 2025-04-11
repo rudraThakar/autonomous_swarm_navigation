@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-ee3bcbc9e374498c5cd6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "communication_msgs__py",
+					"jsonFile" : "directory-communication_msgs__py-ce9b3147530c34aa03b6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/rudra/bharatforge/abhiroop/build/communication_msgs/communication_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "communication_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_communication_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_communication_msgs_egg-00025b4f08c0b93a1737.json",
+					"name" : "ament_cmake_python_build_communication_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_communication_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_communication_msgs-c6d325a0a250d56a19c2.json",
+					"name" : "ament_cmake_python_symlink_communication_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "communication_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-communication_msgs-ff9677aa3cafd6b34def.json",
+					"name" : "communication_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "communication_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-communication_msgs__cpp-ecd153a079d9004cf4d8.json",
+					"name" : "communication_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "communication_msgs__py::@c966344439fe8efc9cb1",
+					"jsonFile" : "target-communication_msgs__py-557718e27299fbd43422.json",
+					"name" : "communication_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "communication_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-communication_msgs__rosidl_generator_c-62a0da7b46a0664d23fc.json",
+					"name" : "communication_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "communication_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-communication_msgs__rosidl_generator_py-e73bd5d4607805c26fa8.json",
+					"name" : "communication_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "communication_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-communication_msgs__rosidl_typesupport_c-31d3d5c31f8e10d99d6a.json",
+					"name" : "communication_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "communication_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-communication_msgs__rosidl_typesupport_c__pyext-b6ee9fc9b0f7586e2c3e.json",
+					"name" : "communication_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "communication_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-communication_msgs__rosidl_typesupport_cpp-44724988bc63144f9879.json",
+					"name" : "communication_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "communication_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-communication_msgs__rosidl_typesupport_fastrtps_c-06b7c3ce5efa456c1cdb.json",
+					"name" : "communication_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "communication_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-communication_msgs__rosidl_typesupport_fastrtps_c__pyext-979e8eb45a0120d89628.json",
+					"name" : "communication_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "communication_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-communication_msgs__rosidl_typesupport_fastrtps_cpp-8c39093511ab15e7b708.json",
+					"name" : "communication_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "communication_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-communication_msgs__rosidl_typesupport_introspection_c-f7f6a0a4f83f6703f4cc.json",
+					"name" : "communication_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "communication_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-communication_msgs__rosidl_typesupport_introspection_c__pyext-3b3f1c5dff29eefb2cf9.json",
+					"name" : "communication_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "communication_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-communication_msgs__rosidl_typesupport_introspection_cpp-9869be660aeff106f963.json",
+					"name" : "communication_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "communication_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-communication_msgs_uninstall-ba5afbd2bb7ef8304a37.json",
+					"name" : "communication_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-eaeda52d5bf155288158.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rudra/bharatforge/abhiroop/build/communication_msgs",
+		"source" : "/home/rudra/bharatforge/abhiroop/src/communication_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

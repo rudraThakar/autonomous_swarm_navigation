@@ -1,0 +1,28 @@
+running egg_info
+writing ../../build/autobot_recog/autobot_recog.egg-info/PKG-INFO
+writing dependency_links to ../../build/autobot_recog/autobot_recog.egg-info/dependency_links.txt
+writing entry points to ../../build/autobot_recog/autobot_recog.egg-info/entry_points.txt
+writing requirements to ../../build/autobot_recog/autobot_recog.egg-info/requires.txt
+writing top-level names to ../../build/autobot_recog/autobot_recog.egg-info/top_level.txt
+reading manifest file '../../build/autobot_recog/autobot_recog.egg-info/SOURCES.txt'
+writing manifest file '../../build/autobot_recog/autobot_recog.egg-info/SOURCES.txt'
+running build
+running build_py
+running build_scripts
+running install
+running install_lib
+running install_data
+copying launch/spawn_turtlebot3.launch.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+running install_egg_info
+removing '/home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/python3.10/site-packages/autobot_recog-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/autobot_recog/autobot_recog.egg-info to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/python3.10/site-packages/autobot_recog-0.0.0-py3.10.egg-info
+running install_scripts
+changing mode of /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog/move.py to 775
+changing mode of /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog/multi_move.py to 775
+changing mode of /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog/image_save.py to 775
+changing mode of /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog/agent_node.py to 775
+Installing agent_node script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+Installing image_save script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+Installing move script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+Installing multi_move script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+writing list of installed files to '/home/rudra/bharatforge/abhiroop/build/autobot_recog/install.log'

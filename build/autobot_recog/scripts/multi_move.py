@@ -1,0 +1,1 @@
+/home/rudra/bharatforge/abhiroop/src/autobot_recog/scripts/multi_move.py

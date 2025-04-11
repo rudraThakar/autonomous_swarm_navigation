@@ -1,0 +1,12 @@
+srv/Liveliness.idl
+srv/Liveliness.srv
+srv/Liveliness_Request.msg
+srv/Liveliness_Response.msg
+srv/TaskAssignment.idl
+srv/TaskAssignment.srv
+srv/TaskAssignment_Request.msg
+srv/TaskAssignment_Response.msg
+srv/TaskCompletion.idl
+srv/TaskCompletion.srv
+srv/TaskCompletion_Request.msg
+srv/TaskCompletion_Response.msg

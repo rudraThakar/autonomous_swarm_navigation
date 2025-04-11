@@ -1,0 +1,47 @@
+running develop
+running egg_info
+creating autobot_recog.egg-info
+writing autobot_recog.egg-info/PKG-INFO
+writing dependency_links to autobot_recog.egg-info/dependency_links.txt
+writing entry points to autobot_recog.egg-info/entry_points.txt
+writing requirements to autobot_recog.egg-info/requires.txt
+writing top-level names to autobot_recog.egg-info/top_level.txt
+writing manifest file 'autobot_recog.egg-info/SOURCES.txt'
+reading manifest file 'autobot_recog.egg-info/SOURCES.txt'
+writing manifest file 'autobot_recog.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/python3.10/site-packages/autobot-recog.egg-link (link to .)
+Installing agent_node script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+Installing image_save script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+Installing move script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+Installing multi_move script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+Installing move.py script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+Installing image_save.py script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+Installing agent_node.py script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+Installing multi_move.py script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+
+Installed /home/rudra/bharatforge/abhiroop/build/autobot_recog
+running symlink_data
+creating /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/ament_index
+creating /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/ament_index/resource_index
+creating /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/ament_index/resource_index/packages
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/resource/autobot_recog -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/ament_index/resource_index/packages
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/package.xml -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog
+creating /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/office_launch.launch.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/warehouse_launch.launch.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/spawn_turtlebot_with_realsense.launch.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/multi_bot.launch.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/robot_state_publisher.launch.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/spawn_yolobot.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/spawn_yolobot_launch.launch.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/gazebo.launch.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/actor.launch.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/2.launch.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/1.launch.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/world_launch.launch.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/4.launch.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/rviz_gazebo_camera.launch.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/multiple_bots.launch.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/spawn_turtlebot3.launch.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+creating /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/urdf

@@ -1,0 +1,71 @@
+// generated from rosidl_generator_cpp/resource/idl__type_support.hpp.em
+// with input from communication_msgs:srv/TaskCompletion.idl
+// generated code does not contain a copyright notice
+
+#ifndef COMMUNICATION_MSGS__SRV__DETAIL__TASK_COMPLETION__TYPE_SUPPORT_HPP_
+#define COMMUNICATION_MSGS__SRV__DETAIL__TASK_COMPLETION__TYPE_SUPPORT_HPP_
+
+#include "rosidl_typesupport_interface/macros.h"
+
+#include "communication_msgs/msg/rosidl_generator_cpp__visibility_control.hpp"
+
+#include "rosidl_typesupport_cpp/service_type_support.hpp"
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+// Forward declare the get type support functions for this type.
+ROSIDL_GENERATOR_CPP_PUBLIC_communication_msgs
+const rosidl_service_type_support_t *
+  ROSIDL_TYPESUPPORT_INTERFACE__SERVICE_SYMBOL_NAME(
+  rosidl_typesupport_cpp,
+  communication_msgs,
+  srv,
+  TaskCompletion
+)();
+#ifdef __cplusplus
+}
+#endif
+
+#include "rosidl_typesupport_cpp/message_type_support.hpp"
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+// Forward declare the get type support functions for this type.
+ROSIDL_GENERATOR_CPP_PUBLIC_communication_msgs
+const rosidl_message_type_support_t *
+  ROSIDL_TYPESUPPORT_INTERFACE__MESSAGE_SYMBOL_NAME(
+  rosidl_typesupport_cpp,
+  communication_msgs,
+  srv,
+  TaskCompletion_Request
+)();
+#ifdef __cplusplus
+}
+#endif
+
+// already included above
+// #include "rosidl_typesupport_cpp/message_type_support.hpp"
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+// Forward declare the get type support functions for this type.
+ROSIDL_GENERATOR_CPP_PUBLIC_communication_msgs
+const rosidl_message_type_support_t *
+  ROSIDL_TYPESUPPORT_INTERFACE__MESSAGE_SYMBOL_NAME(
+  rosidl_typesupport_cpp,
+  communication_msgs,
+  srv,
+  TaskCompletion_Response
+)();
+#ifdef __cplusplus
+}
+#endif
+
+
+#endif  // COMMUNICATION_MSGS__SRV__DETAIL__TASK_COMPLETION__TYPE_SUPPORT_HPP_

@@ -1,0 +1,3 @@
+int64 task_id
+string slave_id
+string status 

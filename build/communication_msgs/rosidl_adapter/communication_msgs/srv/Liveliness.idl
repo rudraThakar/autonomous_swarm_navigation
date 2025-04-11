@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from communication_msgs/srv/Liveliness.srv
+// generated code does not contain a copyright notice
+
+
+module communication_msgs {
+  module srv {
+    struct Liveliness_Request {
+      string sender_id;
+
+      string request;
+    };
+    struct Liveliness_Response {
+      string receiver_id;
+
+      string requester_id;
+
+      string reply;
+    };
+  };
+};

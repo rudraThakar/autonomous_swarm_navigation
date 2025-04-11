@@ -1,0 +1,1 @@
+/home/rudra/bharatforge/abhiroop/src/autobot_recog/scripts/image_save.py

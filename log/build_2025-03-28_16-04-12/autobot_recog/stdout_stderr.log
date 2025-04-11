@@ -1,0 +1,25 @@
+running develop
+running egg_info
+writing autobot_recog.egg-info/PKG-INFO
+writing dependency_links to autobot_recog.egg-info/dependency_links.txt
+writing entry points to autobot_recog.egg-info/entry_points.txt
+writing requirements to autobot_recog.egg-info/requires.txt
+writing top-level names to autobot_recog.egg-info/top_level.txt
+reading manifest file 'autobot_recog.egg-info/SOURCES.txt'
+writing manifest file 'autobot_recog.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/python3.10/site-packages/autobot-recog.egg-link (link to .)
+Installing agent_node script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+Installing image_save script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+Installing move script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+Installing multi_move script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+Installing move.py script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+Installing image_save.py script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+Installing agent_node.py script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+Installing multi_move.py script to /home/rudra/bharatforge/abhiroop/install/autobot_recog/lib/autobot_recog
+
+Installed /home/rudra/bharatforge/abhiroop/build/autobot_recog
+running symlink_data
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/multi_realsense_bot.launch.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+symbolically linking /home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/multiple_bots.launch.py -> /home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch
+error: [Errno 17] File exists: '/home/rudra/bharatforge/abhiroop/build/autobot_recog/launch/multiple_bots.launch.py' -> '/home/rudra/bharatforge/abhiroop/install/autobot_recog/share/autobot_recog/launch/multiple_bots.launch.py'

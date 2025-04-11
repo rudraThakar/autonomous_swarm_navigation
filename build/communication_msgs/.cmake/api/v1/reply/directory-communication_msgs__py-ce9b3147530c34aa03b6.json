@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "communication_msgs__py",
+		"source" : "/home/rudra/bharatforge/abhiroop/build/communication_msgs/communication_msgs__py"
+	}
+}
