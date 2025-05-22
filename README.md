@@ -4,3 +4,5 @@ Installation instructions will be added soon!!
 # Demonstration : small Environment (office)
 ![Demo](small_env1.gif)
 
+# Demonstration : Large Environment (Warehouse)
+![Demo](large_env.gif)
